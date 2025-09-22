@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radholding</h1>
+<h1 align="center">Hi 👋, Radholding</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
